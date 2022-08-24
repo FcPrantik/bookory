@@ -1,0 +1,65 @@
+[
+    {
+        "id": "B002RL8IYK",
+        "name": "JavaScript Everywhere",
+        "author": "Adam D. Scottark Lutz",
+        "img": "https://i.ibb.co/YDc0nGr/Java-Script-Everywhere.png",
+        "price": 234
+    },
+    {
+        "id": "B01LZ2WZGH",
+        "name": "Eloquent JavaScript",
+        "author": "Marjin Haverbeke",
+        "img": "https://i.ibb.co/L04mDg2/Eloquent-Java-Script.png",
+        "price": 134
+    },
+    {
+        "id": "B01K1IO3QW",
+        "name": "Learning React",
+        "author": "Alex Banks & Eve Porcello",
+        "img": "https://i.ibb.co/xsgGpKN/Learning-React.png",
+        "price": 434
+    },
+    {
+        "id": "B01LD4MGY4",
+        "name": "The Road to React",
+        "author": "Robin Wieruch",
+        "img": "https://i.ibb.co/jLfkRvr/The-Road-to-React.png",
+        "price": 334
+    },
+    {
+        "id": "B01M18UZF5",
+        "name": "The C Programming Language",
+        "author": "Brain W.",
+        "img": "https://i.ibb.co/qB6MkVc/The-C-Programming-Language.png",
+        "price": 342
+    },
+    {
+        "id": "B01DBGVB7K",
+        "name": "Effective TypeScript",
+        "author": "Dan Vanderkam",
+        "img": "https://i.ibb.co/KVDsPF4/Effective-Type-Script.png",
+        "price": 132
+    },
+    {
+        "id": "B015WXL0C6",
+        "name": "Python Crash Course",
+        "author": "Eric Matthes",
+        "img": "https://i.ibb.co/p0JxGHP/Python-Crash-Course.png",
+        "price": 334
+    },
+    {
+        "id": "B06Y4GZS9C",
+        "name": "Software Engineering at Google",
+        "author": "Titus Winter",
+        "img": "https://i.ibb.co/4JRM9Yy/Software-Engineering-at-Google.png",
+        "price": 342
+    },
+    {
+        "id": "B06XJJG4PD",
+        "name": "Learn JavaScript Quickly",
+        "author": "Dan Vanderkam",
+        "img": "https://i.ibb.co/NFHjbt5/Learn-Java-Script-Quickly.png",
+        "price": 132
+    }
+]

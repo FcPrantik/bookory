@@ -1,0 +1,8 @@
+.manage{
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+    margin-bottom: 10px;
+    background-color: rgb(243, 243, 243);
+    padding: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+.order {
+    display: grid;;
+    grid-template-columns: 1fr 10fr  1fr;
+    background-color: rgb(243, 243, 243);
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 20px;
+}
